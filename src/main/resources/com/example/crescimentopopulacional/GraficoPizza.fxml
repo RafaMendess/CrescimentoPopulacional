@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.PieChart?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="490.0" prefWidth="685.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.crescimentopopulacional.GraficoPizza">
+   <children>
+      <PieChart fx:id="graficoPizza" layoutX="-5.0" prefHeight="490.0" prefWidth="685.0" title="Crescimento Populacional do ano " />
+   </children>
+</AnchorPane>
